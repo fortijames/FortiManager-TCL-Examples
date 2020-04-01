@@ -1,6 +1,10 @@
 # FortiManager-TCL-Examples
 Various FortiManager TCL Script Examples and Solutions. The intention is to share these soluutions as boilerplate code and exmaples of how to make your own solutions.
 
+# References
+ - https://docs.fortinet.com/document/fortimanager/6.2.0/administration-guide/914165/tcl-scripts
+ - https://rextester.com/l/tcl_online_compiler 
+
 # License
 
 Copyright © 2017 Fortinet, Inc.
