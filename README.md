@@ -6,7 +6,7 @@ Various FortiManager TCL Script Examples and Solutions. The intention is to shar
  - https://rextester.com/l/tcl_online_compiler 
 
 # License
-
+```
 Copyright © 2017 Fortinet, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -27,3 +27,4 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS OR FORTINET SUPPORT (TAC)
 BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
