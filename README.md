@@ -1,6 +1,13 @@
 # FortiManager-TCL-Examples
 Various FortiManager TCL Script Examples and Solutions. The intention is to share these soluutions as boilerplate code and exmaples of how to make your own solutions.
 
+# Setup FortiManager for TCL Scripting
+```
+config system admin setting 
+  set show_tcl_script enable 
+end
+```
+
 # References
  - https://docs.fortinet.com/document/fortimanager/6.2.0/administration-guide/914165/tcl-scripts
  - https://rextester.com/l/tcl_online_compiler 
