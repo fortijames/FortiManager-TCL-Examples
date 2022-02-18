@@ -3,7 +3,6 @@
 ##
 ###Find VPNs and create an Alias Command for Each Tunnel
 ##
-##
 ##History:
 #     20210218 - Initially created so I can tab-complete my common VPN commands. - jhilving@fortinet.com
 #
